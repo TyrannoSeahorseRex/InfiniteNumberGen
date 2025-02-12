@@ -5,4 +5,4 @@ znum = specialNumber * xnum
 while True:
   print(f"{specialNumber} * {xnum} is {znum}")
   xnum = xnum + 1
-  znum = specialNumber * xnum
+  znum = specialNumber * xnum 
